@@ -1,1 +1,0 @@
-# mogesiemylic.github.io
