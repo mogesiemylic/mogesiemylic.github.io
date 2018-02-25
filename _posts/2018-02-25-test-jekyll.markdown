@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Testowy wpis..."
+date:   2018-02-25 14:42:58 +0100
+categories: test
+---
+Testujemy sobie grzecznie, czy markdown działa i czy Jekyll wypycha treść na stronę.
